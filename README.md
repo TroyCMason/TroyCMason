@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TroyCMason
 - 👀 I’m interested in ... finance, martial arts, weightlighting, anime and coding
 - 🌱 I’m currently learning ... data analytics
-- 💞️ I’m looking to collaborate on ... not sure yet but I'll let you know
+- 💞️ I’m looking to collaborate on ... basic coding projects
 - 📫 How to reach me ... through my twitter @MadeAndCrowned
 
 <!---
