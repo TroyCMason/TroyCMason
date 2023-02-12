@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TroyCMason
-- 👀 I’m interested in ... finance, martial arts, weightlighting, anime and coding
+- 👀 I’m interested in artifical intellegence, android development, machine learning and fitneess.
 - 🌱 I’m currently learning ... data analytics and front-end developing
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
