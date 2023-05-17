@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Troy Mason==================================================================================================================================Fullstack Web Developer and Designer------------------------------------* 🌍  I'm based in Toronto* ✉️  You can contact me at [troymason222@gmail.com](mailto:troymason222@gmail.com)
+Fullstack Web Developer and Designer
+------------------------------------* 🌍  I'm based in Toronto* ✉️  You can contact me at [troymason222@gmail.com](mailto:troymason222@gmail.com)
 
 <a href="https://www.github.com/TroyCMason" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TroyCMason?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a><a href="https://www.twitter.com/https://twitter.com/home" target="_blank" rel="noreferrer"><img
