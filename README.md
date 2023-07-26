@@ -31,4 +31,4 @@ src="https://img.shields.io/twitch/status/midaslockhart?logo=twitchsx&style=for-
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/troycmason"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/troymason"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
