@@ -1,6 +1,6 @@
 
 
-🌍 I'm based in *Greater Toronto Area* ✉️  
+🌍 I'm based in *Greater Toronto Area*  ✉️  
 You can contact me at [troymason222@gmail.com](mailto:troymason222@gmail.com)
 
 <a href="https://www.github.com/TroyCMason" target="_blank" rel="noreferrer"><img
