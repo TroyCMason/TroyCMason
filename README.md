@@ -23,6 +23,8 @@ src="https://img.shields.io/twitch/status/midaslockhart?logo=twitchsx&style=for-
 
 <a href="http://www.github.com/TroyCMason"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TroyCMason&stroke=ef4444&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
+<a href="http://www.github.com/TroyCMason"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TroyCMason&bg_color=000000&color=ef4444&line=ef4444&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/TroyCMason" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroyCMason&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
