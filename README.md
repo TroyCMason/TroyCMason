@@ -5,7 +5,6 @@ You can contact me at [troymason222@gmail.com](mailto:troymason222@gmail.com)
 
 <a href="https://www.github.com/TroyCMason" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TroyCMason?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a><a href="https://www.twitter.com/https://twitter.com/home" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/https://twitter.com/home?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"/></a><a href="https://www.twitch.tv/midaslockhart" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/midaslockhart?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=000000&label=TWITCH+STATUS" /></a>
 
 ### Skills
